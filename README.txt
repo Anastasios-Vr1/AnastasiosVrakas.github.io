@@ -1,32 +1,31 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Anastasios Vrakas | Portfolio
 
+Welcome to my portfolio repository! This repository hosts my portfolio website, showcasing my projects and expertise in **SQL**, **Tableau**, **Power BI**, and **Excel**.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## 🚀 Projects Overview
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### 1. **SQL Projects**
+- **Data Cleaning & Exploration:** SQL Server-based data analysis projects, including complex queries, data cleaning, and insights extraction.
+- **Global Layoffs Analysis:** Analyzed global layoffs trends across industries using SQL queries for data exploration.
 
-(* = not included)
+### 2. **Power BI Projects**
+- **Sales Analytics Dashboard:** Developed interactive dashboards in Power BI for visualizing sales performance and KPIs.
 
-AJ
-aj@lkn.io | @ajlkn
+### 3. **Tableau Projects**
+- **Customer Segmentation Analysis:** Used Tableau to visualize and analyze customer segmentation based on purchasing behavior.
+- **Market Trend Visualization:** Interactive Tableau dashboards for monitoring market trends.
 
+### 4. **Excel Projects**
+- **Financial Data Analysis:** Leveraged Excel for analyzing and reporting on financial data using advanced formulas and pivot tables.
 
-Credits:
+## 💻 Technologies
+- **SQL Server**
+- **Power BI**
+- **Tableau**
+- **Excel**
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 🔗 Live Portfolio
+You can view my portfolio website [here](#). (https://anastasios-vr1.github.io/AnastasiosVrakas.github.io/)
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📬 Contact
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anastasiosvrakas/) or email me at anastasiosvrt@gmail.com
