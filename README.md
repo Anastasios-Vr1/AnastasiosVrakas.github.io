@@ -25,7 +25,7 @@ Welcome to my portfolio repository! This repository hosts my portfolio website, 
 - **Excel**
 
 ## 🔗 Live Portfolio
-You can view my portfolio website [here](#). (https://anastasios-vr1.github.io/AnastasiosVrakas.github.io/)
+You can view my portfolio website [here](https://anastasios-vr1.github.io/AnastasiosVrakas.github.io/).
 
 ## 📬 Contact
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/anastasiosvrakas/) or email me at anastasiosvrt@gmail.com
